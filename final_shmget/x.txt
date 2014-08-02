@@ -1,0 +1,2 @@
+6	0	shaun	xx	0	./fifo/client/noti_shaun
+-1	1	hello	ts	0	./fifo/client/noti_hello

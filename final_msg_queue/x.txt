@@ -1,0 +1,2 @@
+-1	0	user	sss	0	./fifo/client/noti_user
+7	1	shaun	xx	0	./fifo/client/noti_shaun
